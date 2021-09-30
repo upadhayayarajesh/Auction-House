@@ -7,16 +7,7 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 import java.util.HashMap;
 
-/**
- * Jiajun Guo
- * Steven Chen
- * Rajesh Upadhayaya
- *
- * CS 351L
- * Project 5: Distributed Auction
- *
- * class AgentHouseLogic
- */
+
 public class AgentHouseLogic implements Runnable{
     private final HashMap<String, Socket> socketList;
     private final BufferedReader in;

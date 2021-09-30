@@ -7,16 +7,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.HashMap;
 
-/**
- * Jiajun Guo
- * Steven Chen
- * Rajesh Upadhayaya
- *
- * CS 351L
- * Project 5: Distributed Auction
- *
- * class AgentBankLogic
- */
+
 public class AgentBankLogic implements Runnable{
     private final BufferedReader in;
     private String[] inputLine;

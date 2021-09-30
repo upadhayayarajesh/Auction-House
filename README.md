@@ -1,6 +1,4 @@
-# CS351- Project 5: Distributed Auction
-
-## Jiajun Guo, Rajesh Upadhayaya, Steven Chen
+### Action House
 
 
 ### Program Functionality

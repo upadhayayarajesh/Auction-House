@@ -13,16 +13,7 @@ import java.util.Map;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Jiajun Guo
- * Steven Chen
- * Rajesh Upadhayaya
- *
- * CS 351L
- * Project 5: Distributed Auction
- *
- * class Agent
- */
+
 public class Agent {
 
     private static final BufferedReader stdIn = new BufferedReader(
